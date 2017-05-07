@@ -10,7 +10,7 @@
   },
   "engines": {
     "node": "7.1.0"
-  }
+  },
   "author": "Kyle Brennan",
   "license": "ISC",
   "dependencies": {
